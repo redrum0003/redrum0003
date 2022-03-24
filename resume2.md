@@ -56,14 +56,14 @@
 # 技能清单
 以下均为我熟练使用的技能
 
--   Web 开发：Php/Node/Python
+-   Web 开发：Php/Node
 -   Web 框架：eggJs/MidwayJs
 -   数据库相关：MySQL/Elasticsearch
 -   版本管理、文档和自动化部署工具：Git/Swagger/Postman/Jenkins/Composer
 -   云和开放平台：阿里云
 -   操作系统：centos/osx
 
-## 参考技能关键字
+## 涉及的技能关键字
 
 -   nodejs
 -   eggjs
