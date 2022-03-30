@@ -2,7 +2,7 @@
 
 -   项驰宇/男/1980
 -   大专/湖北大学计算机系
--   手机：18622768428
+-   手机：18627768428
 -   Email：redrum0003@163.com
 
 ---
@@ -110,8 +110,12 @@ UC 的应用分发平台，包含国内和国外两大渠道。
 
 # 专业技能列表
 
- Nodejs Php Python MySql elasticsearch Hadoop memcached grpc mq ORM TS Falsk eggjs midwayjs Docker 
-  
+* Nodejs Php Python 
+* MySql elasticsearch Hadoop
+* memcached grpc mq
+* ORM TS
+* Falsk eggjs midwayjs
+* Docker 
 ---
 
 # 个人优势
