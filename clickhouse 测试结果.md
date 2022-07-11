@@ -105,7 +105,7 @@
 ![image](https://github.com/redrum0003/redrum0003/raw/main/only_read.png)
 
 ### 读写测试
-![image][read write]
+![image](https://github.com/redrum0003/redrum0003/blob/main/read_write.png)
 
 
 ---
