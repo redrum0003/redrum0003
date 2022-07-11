@@ -102,7 +102,7 @@
 
 
 ### 只读测试
-![image][./only_read.png]
+![image](https://github.com/redrum0003/redrum0003/raw/main/only_read.png)
 
 ### 读写测试
 ![image][read write]
