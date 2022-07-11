@@ -102,7 +102,7 @@
 
 
 ### 只读测试
-![image][only read]
+![image][./only_read.png]
 
 ### 读写测试
 ![image][read write]
